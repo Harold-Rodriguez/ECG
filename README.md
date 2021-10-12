@@ -1,0 +1,2 @@
+# ECG
+La cardiologie fait partie des domaines dans lesquels l’utilisation de réseaux de neurones profonds (DNN) est rare. Une des explications à cette situation est la difficulté d’obtenir des jeux de données suffisamment cohérents et massifs d’électrocardiogrammes (ECG). En 2020, une équipe de chercheurs de l’Universidade Federal de Minas Gerais a entraîné un DNN sur plus de 2 millions d’ECG standards à 12 pistes et a obtenu un F-score supérieur aux cardiologues de l’étude dans la prédiction de 6 pathologies cardiaques courantes . 
